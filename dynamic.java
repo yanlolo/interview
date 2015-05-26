@@ -39,7 +39,7 @@ public class PhD {
 		System.out.println("-- -- -- -- -- -- -- -- --");
 		System.out.println("The average tested dynamic hit rate: " + testRate);
 		System.out.println("Dynamic hit rate got from the formula: " + formula);
-		System.out.println("Dynamic hit rate got from the aproximate formula: " + approximateFormula);
+		System.out.println("Dynamic hit rate got from the approximate formula: " + approximateFormula);
 		System.out.println("Static hit rate: " + staticRate);
 		System.out.println("Congratulate! It's finished.");
 	}
